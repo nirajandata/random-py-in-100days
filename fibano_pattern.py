@@ -1,8 +1,8 @@
 import turtle
+a=turtle.Turtle()
 def _draw():
 	window=turtle.Screen()
 	window.bgcolor("indigo")
- 	a=turtle.Turtle()
 	i=0
 	j=-20
 	x=['grey','black','blue','green','red','white','yellow','white','green','red']
